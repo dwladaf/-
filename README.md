@@ -7,6 +7,7 @@
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ais-pre-fm6eq2uelg7ja3gctnpotc-252479680498.asia-northeast1.run.app
+전체화면 : https://ai.studio/apps/30cf25b7-7f13-4318-9999-99804f5fb475?fullscreenApplet=true
 
 ## Run Locally
 
