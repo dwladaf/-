@@ -1,0 +1,12 @@
+{
+  "name": "Moata",
+  "description": "Suncheon National University Student-only Safety Taxi-Sharing Community",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Taxi Sharing",
+    "Student Verification",
+    "Safety Tracking"
+  ]
+}
